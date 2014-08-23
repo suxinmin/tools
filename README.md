@@ -1,4 +1,3 @@
-tools
-=====
+# copy rights (c) 2014 Jie Min Technology 
 
-some scripts and tools
+some tools and scripts
